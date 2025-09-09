@@ -24,4 +24,5 @@ dev = [
     "pre-commit>=4.0.1",
     "ruff>=0.8.4",
     "typer>=0.15.1",
+    "httpx-sse>=0.4.0" 
 ]
